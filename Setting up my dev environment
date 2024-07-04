@@ -1,0 +1,39 @@
+Installation and Navigation of Visual Studio Code (VS Code)
+Installation of VS Code
+Download and Install: Visit VS Code website, download for Windows, run VSCodeSetup.exe.
+Prerequisites: Admin privileges, 64-bit Windows OS.
+First-time Setup
+Settings Sync: Sign in with Microsoft or GitHub account.
+Theme: File > Preferences > Color Theme.
+Font Size: File > Preferences > Settings, search "Font Size".
+Extensions: Ctrl+Shift+X, install Prettier, ESLint, Python, Live Server.
+User Interface Overview
+Activity Bar: Access views (Explorer, Search, Source Control, Run and Debug, Extensions).
+Side Bar: Displays views based on Activity Bar selection.
+Editor Group: Central area for editing, supports split view.
+Status Bar: Shows Git branch, line/column number, language mode, notifications.
+Command Palette
+Access: Ctrl+Shift+P (Windows) or Cmd+Shift+P (Mac).
+Common Tasks: Open file, go to symbol, format document.
+Extensions in VS Code
+Role: Add features, languages, debuggers, tools.
+Management: Ctrl+Shift+X, enable/disable/uninstall.
+Essential Extensions: Live Server, Prettier, ESLint, GitLens.
+Integrated Terminal
+Open: Ctrl+ (backtick) or View > Terminal.
+Advantages: Interact with environment, run commands/scripts, support multiple instances/shells.
+File and Folder Management
+Create: Right-click in Explorer, select "New File/New Folder".
+Open: Drag and drop, or File > Open File/Open Folder.
+Navigate: Ctrl+P, use Explorer view.
+Settings and Preferences
+Access: File > Preferences > Settings or Ctrl+,.
+Examples: Change theme (search "Color Theme"), adjust font size (search "Font Size"), modify keybindings (Ctrl+K Ctrl+S).
+Debugging in VS Code
+Setup: Ensure launch.json is configured, set breakpoints.
+Start: Run and Debug icon, select configuration, click play.
+Features: Variable inspection, watch expressions, call stack navigation, step-through execution.
+Using Source Control
+Initialize Repository: Open project folder, Source Control icon, initialize repository.
+Commits: Stage changes, enter commit message, commit.
+Push to GitHub: Set up remote repository, push changes via command palette or terminal.
